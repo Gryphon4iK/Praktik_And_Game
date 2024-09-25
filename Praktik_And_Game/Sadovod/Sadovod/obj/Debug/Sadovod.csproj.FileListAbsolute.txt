@@ -1,0 +1,10 @@
+E:\Домашние задания\Программирование\Praktik_And_Game\Sadovod\Sadovod\bin\Debug\Sadovod.exe.config
+E:\Домашние задания\Программирование\Praktik_And_Game\Sadovod\Sadovod\bin\Debug\Sadovod.exe
+E:\Домашние задания\Программирование\Praktik_And_Game\Sadovod\Sadovod\bin\Debug\Sadovod.pdb
+E:\Домашние задания\Программирование\Praktik_And_Game\Sadovod\Sadovod\obj\Debug\Sadovod.csproj.AssemblyReference.cache
+E:\Домашние задания\Программирование\Praktik_And_Game\Sadovod\Sadovod\obj\Debug\Sadovod.Properties.Resources.resources
+E:\Домашние задания\Программирование\Praktik_And_Game\Sadovod\Sadovod\obj\Debug\Sadovod.csproj.GenerateResource.cache
+E:\Домашние задания\Программирование\Praktik_And_Game\Sadovod\Sadovod\obj\Debug\Sadovod.csproj.CoreCompileInputs.cache
+E:\Домашние задания\Программирование\Praktik_And_Game\Sadovod\Sadovod\obj\Debug\Sadovod.exe
+E:\Домашние задания\Программирование\Praktik_And_Game\Sadovod\Sadovod\obj\Debug\Sadovod.pdb
+E:\Домашние задания\Программирование\Praktik_And_Game\Sadovod\Sadovod\obj\Debug\Sadovod.AppleCollector.resources

@@ -1,0 +1,10 @@
+E:\Домашние задания\Программирование\Praktik_And_Game\SkanerPort\SkanerPort\bin\Debug\SkanerPort.exe.config
+E:\Домашние задания\Программирование\Praktik_And_Game\SkanerPort\SkanerPort\bin\Debug\SkanerPort.exe
+E:\Домашние задания\Программирование\Praktik_And_Game\SkanerPort\SkanerPort\bin\Debug\SkanerPort.pdb
+E:\Домашние задания\Программирование\Praktik_And_Game\SkanerPort\SkanerPort\obj\Debug\SkanerPort.csproj.AssemblyReference.cache
+E:\Домашние задания\Программирование\Praktik_And_Game\SkanerPort\SkanerPort\obj\Debug\SkanerPort.Form1.resources
+E:\Домашние задания\Программирование\Praktik_And_Game\SkanerPort\SkanerPort\obj\Debug\SkanerPort.Properties.Resources.resources
+E:\Домашние задания\Программирование\Praktik_And_Game\SkanerPort\SkanerPort\obj\Debug\SkanerPort.csproj.GenerateResource.cache
+E:\Домашние задания\Программирование\Praktik_And_Game\SkanerPort\SkanerPort\obj\Debug\SkanerPort.csproj.CoreCompileInputs.cache
+E:\Домашние задания\Программирование\Praktik_And_Game\SkanerPort\SkanerPort\obj\Debug\SkanerPort.exe
+E:\Домашние задания\Программирование\Praktik_And_Game\SkanerPort\SkanerPort\obj\Debug\SkanerPort.pdb
