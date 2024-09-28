@@ -1,0 +1,10 @@
+C:\Users\Mega64RUS\Desktop\Praktik_Game\WindowMessage\WindowMessage\bin\Debug\WindowMessage.exe.config
+C:\Users\Mega64RUS\Desktop\Praktik_Game\WindowMessage\WindowMessage\bin\Debug\WindowMessage.exe
+C:\Users\Mega64RUS\Desktop\Praktik_Game\WindowMessage\WindowMessage\bin\Debug\WindowMessage.pdb
+C:\Users\Mega64RUS\Desktop\Praktik_Game\WindowMessage\WindowMessage\obj\Debug\WindowMessage.csproj.AssemblyReference.cache
+C:\Users\Mega64RUS\Desktop\Praktik_Game\WindowMessage\WindowMessage\obj\Debug\WindowMessage.Form1.resources
+C:\Users\Mega64RUS\Desktop\Praktik_Game\WindowMessage\WindowMessage\obj\Debug\WindowMessage.Properties.Resources.resources
+C:\Users\Mega64RUS\Desktop\Praktik_Game\WindowMessage\WindowMessage\obj\Debug\WindowMessage.csproj.GenerateResource.cache
+C:\Users\Mega64RUS\Desktop\Praktik_Game\WindowMessage\WindowMessage\obj\Debug\WindowMessage.csproj.CoreCompileInputs.cache
+C:\Users\Mega64RUS\Desktop\Praktik_Game\WindowMessage\WindowMessage\obj\Debug\WindowMessage.exe
+C:\Users\Mega64RUS\Desktop\Praktik_Game\WindowMessage\WindowMessage\obj\Debug\WindowMessage.pdb
