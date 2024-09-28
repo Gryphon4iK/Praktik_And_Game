@@ -1,0 +1,10 @@
+C:\Users\Mega64RUS\Desktop\Praktik_Game\SimpleDB\SimpleDB\bin\Debug\SimpleDB.exe.config
+C:\Users\Mega64RUS\Desktop\Praktik_Game\SimpleDB\SimpleDB\bin\Debug\SimpleDB.exe
+C:\Users\Mega64RUS\Desktop\Praktik_Game\SimpleDB\SimpleDB\bin\Debug\SimpleDB.pdb
+C:\Users\Mega64RUS\Desktop\Praktik_Game\SimpleDB\SimpleDB\obj\Debug\SimpleDB.csproj.AssemblyReference.cache
+C:\Users\Mega64RUS\Desktop\Praktik_Game\SimpleDB\SimpleDB\obj\Debug\SimpleDB.Form1.resources
+C:\Users\Mega64RUS\Desktop\Praktik_Game\SimpleDB\SimpleDB\obj\Debug\SimpleDB.Properties.Resources.resources
+C:\Users\Mega64RUS\Desktop\Praktik_Game\SimpleDB\SimpleDB\obj\Debug\SimpleDB.csproj.GenerateResource.cache
+C:\Users\Mega64RUS\Desktop\Praktik_Game\SimpleDB\SimpleDB\obj\Debug\SimpleDB.csproj.CoreCompileInputs.cache
+C:\Users\Mega64RUS\Desktop\Praktik_Game\SimpleDB\SimpleDB\obj\Debug\SimpleDB.exe
+C:\Users\Mega64RUS\Desktop\Praktik_Game\SimpleDB\SimpleDB\obj\Debug\SimpleDB.pdb

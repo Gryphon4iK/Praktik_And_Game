@@ -1,0 +1,10 @@
+C:\Users\Mega64RUS\Desktop\Praktik_Game\Timer\Timer\bin\Debug\Timer.exe.config
+C:\Users\Mega64RUS\Desktop\Praktik_Game\Timer\Timer\bin\Debug\Timer.exe
+C:\Users\Mega64RUS\Desktop\Praktik_Game\Timer\Timer\bin\Debug\Timer.pdb
+C:\Users\Mega64RUS\Desktop\Praktik_Game\Timer\Timer\obj\Debug\Timer.csproj.AssemblyReference.cache
+C:\Users\Mega64RUS\Desktop\Praktik_Game\Timer\Timer\obj\Debug\Timer.Form1.resources
+C:\Users\Mega64RUS\Desktop\Praktik_Game\Timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+C:\Users\Mega64RUS\Desktop\Praktik_Game\Timer\Timer\obj\Debug\Timer.csproj.GenerateResource.cache
+C:\Users\Mega64RUS\Desktop\Praktik_Game\Timer\Timer\obj\Debug\Timer.csproj.CoreCompileInputs.cache
+C:\Users\Mega64RUS\Desktop\Praktik_Game\Timer\Timer\obj\Debug\Timer.exe
+C:\Users\Mega64RUS\Desktop\Praktik_Game\Timer\Timer\obj\Debug\Timer.pdb
